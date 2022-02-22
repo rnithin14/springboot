@@ -31,5 +31,6 @@ jobs:
        image: nithin321/sprin
        tags:  latest
        registry: docker.io
+       Dockerfile: Dockerfile
        username: ${{ secrets.DOCKER_USERNAME }}
        password: ${{ secrets.DOCKER_PASSWORD }}
