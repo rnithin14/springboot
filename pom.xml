@@ -49,9 +49,10 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-	</build>
-	<properties>
+			<properties>
   		<sonar.organization>rnithin14</sonar.organization>
 	  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
+	</build>
+
 </project>
