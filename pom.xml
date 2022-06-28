@@ -50,5 +50,8 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<properties>
+  		<sonar.organization>rnithin14</sonar.organization>
+	  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 </project>
